@@ -18,4 +18,3 @@ This application used local storage for the database, therefore it is only acces
 
 ## Application in the works:
 
-
